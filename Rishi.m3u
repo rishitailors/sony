@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 #url-tvg="http://rstream.me/epg.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="JioCinema Cricket" tvg-logo="https://watchindia.net/images/channels/sports/JioCinema.png" group-title="Sports",JioCinema Cricket
