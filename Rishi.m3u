@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTM3U url-tvg="https://avkb.short.gy/epg.xml.gz"
+#EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
+#url-tvg="http://rstream.me/epg.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="JioCinema Cricket" tvg-logo="https://watchindia.net/images/channels/sports/JioCinema.png" group-title="Sports",JioCinema Cricket
 http://watchindia.net:8880/live/98207/59861/2492.ts
 #EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 HD 1" tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD 1
