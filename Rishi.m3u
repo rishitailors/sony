@@ -1,5 +1,59 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 #url-tvg="http://rstream.me/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="GARUDA HD" tvg-logo="https://i.imgur.com/W8CFuqx.jpg" group-title="Local", GARUDA HD
+https://stream.e2is.in/hls/Garudatv.m3u8
+#EXTINF:-1 tvg-id="GARUDA " tvg-logo="https://i.imgur.com/iv01fEs.jpg" group-title="Local", GARUDA BHAKTI
+http://stream.e2is.in/hls/Garudatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Studio18.jpg" group-title="Local",Studio18 News
+http://server.streamplay.in:1935/studio18/studio18/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/BatukammaTV.jpg" group-title="Local",Batukamma TV
+http://live.streamplay.in:1935/bkamma/bkamma/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Santhoshamtv.jpg" group-title="Local",Santhosham TV
+http://hdserver.7starcloud.com:1935/shts/live/chunklist_w1579620889.m3u8
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-logo="https://i.imgur.com/eKJ9IJv.jpg" group-title="Local", v9 studio news
+http://183.87.51.10/hls/V9studio.m3u8
+#EXTINF:-1 tvg-id="City News TV" tvg-logo="https://play-lh.googleusercontent.com/JX__NKk0RMa5P00ROEnftE1hxcA78rMFny0_hdf5YNrLIRx3lEq03tVMgZ7O5a5ffq8=s180-rw" group-title="Local",City News TV
+http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8
+#EXTINF:-1 tvg-id="Sathya News" tvg-logo="https://play-lh.googleusercontent.com/DTK6083Z8NlyQrtms-MR_5kx0kurxQzJAfGtQQXAnd4UD9cIs62jxzk7Qo54cz9JtA=s180-rw" group-title="Local",Sathya News
+http://blmtech.in:8086/hls/satyanews/index.m3u8
+#EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="Local",Metro TV
+https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="saranyatv" tvg-logo="https://play-lh.googleusercontent.com/y7nG2foe5dSlc9atI01_uKg0737PdUXVE-SFYDTuH56-tLc7PP2TVHnCsEUn_cjPGkY=s180-rw" group-title="Local",Saranya TV
+http://blmtech.in:8086/hls/saranyatv/index.m3u8
+#EXTINF:-1 tvg-id="Cowa TV" tvg-logo="https://lh3.googleusercontent.com/TpQn_OjdF_NQiVX6ZnEmTJ72jh0pXJ_MhWqyjzdK44xbdUrwSU94t1BXf3PKXWdmdgM" group-title="Local",Cowa TV
+http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
+#EXTINF:-1 tvg-id="BCN Channel" tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Local",BCN
+http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
+#EXTINF:-1 tvg-id="V7Music" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/V7Music.jpg" group-title="Local", V7Music
+rtmp://cloud.streamplay.in/taazanews/taazanews
+#EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Powertv.jpg" group-title="Local",Power TV
+http://live.mrstream.in:1935/powertv/powertv/playlist.m3u8
+#EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Powertv.jpg" group-title="Local",CTV News
+http://blmtech.in:8086/hls/ctv/index.m3u8
+#EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Powertv.jpg" group-title="Local",HN9TV
+http://blmtech.in:8086/hls/hn9tv/index.m3u8
+#EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Msdigitaltv.jpg" group-title="Local",MS Digital
+http://telugusolutions.com/msdigitaltv/msdigitaltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Msdigitaltv.jpg" group-title="Local",Sity
+http://cloud.streamplay.in:1935/ccc/ccc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Msdigitaltv.jpg" group-title="Local",Vizag Local News
+http://live.streamplay.in:1935/vlnews/vlnews/playlist.m3u8
+#EXTINF:-1 tvg-id="AB5 News" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Ab5news.jpg" group-title="Local",AB5 News
+http://183.87.51.10/hls/sungroup.m3u8
+#EXTINF:-1 tvg-id="Teja Tv" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Tejatv.jpg" group-title="Local",Teja TV
+http://telugusolutions.com/tejatv/tejatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/9tvtelangana.jpg" group-title="Local",9TV Telangana
+http://server.streamplay.in:1935/9tv/9tv/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yadadritv.jpg" group-title="Local",Sriyadadri
+http://live.streamplay.in:1935/sriyadadri/sriyadadri/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Rk9news.jpg" group-title="Local",RK9 News
+http://telugusolutions.com/rk9news/rk9news/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Ammanews.jpg" group-title="Local",Amma News
+http://server.streamplay.in:1935/star9/star9/playlist.m3u8
+#EXTINF:-1 tvg-id="Bhavya_tv" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Bhavya_tv.jpg" group-title="Local",Bhavya TV
+http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="JioCinema Cricket" tvg-logo="https://watchindia.net/images/channels/sports/JioCinema.png" group-title="Sports",JioCinema Cricket
 http://watchindia.net:8880/live/98207/59861/2492.ts
 #EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 HD 1" tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD 1
