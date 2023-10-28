@@ -1,76 +1,74 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 #EXTINF:-1,===== INDIA UK =====
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK
-http://sansat.net:25461/02024773939334/02024773939334/100797
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: STAR PLUS HD
+#EXTINF:-1,IN UK: STAR PLUS HD
 http://sansat.net:25461/02024773939334/02024773939334/100798
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: STAR PLUS
+#EXTINF:-1,IN UK: STAR PLUS
 http://sansat.net:25461/02024773939334/02024773939334/100799
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: STAR GOLD HD
+#EXTINF:-1,IN UK: STAR GOLD HD
 http://sansat.net:25461/02024773939334/02024773939334/100800
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: STAR GOLD
+#EXTINF:-1,IN UK: STAR GOLD
 http://sansat.net:25461/02024773939334/02024773939334/100801
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: STAR BHARAT
+#EXTINF:-1,IN UK: STAR BHARAT
 http://sansat.net:25461/02024773939334/02024773939334/100802
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: ZEE TV
+#EXTINF:-1,IN UK: ZEE TV
 http://sansat.net:25461/02024773939334/02024773939334/100803
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: ZEE CINEMA HD
+#EXTINF:-1,IN UK: ZEE CINEMA HD
 http://sansat.net:25461/02024773939334/02024773939334/100804
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: ZEE CINEMA
+#EXTINF:-1,IN UK: ZEE CINEMA
 http://sansat.net:25461/02024773939334/02024773939334/100805
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: SONY ASIA HD
+#EXTINF:-1,IN UK: SONY ASIA HD
 http://sansat.net:25461/02024773939334/02024773939334/100806
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: SONY ASIA
+#EXTINF:-1,IN UK: SONY ASIA
 http://sansat.net:25461/02024773939334/02024773939334/100807
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: SONY MAX HD
+#EXTINF:-1,IN UK: SONY MAX HD
 http://sansat.net:25461/02024773939334/02024773939334/100808
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: SONY MAX
+#EXTINF:-1,IN UK: SONY MAX
 http://sansat.net:25461/02024773939334/02024773939334/100809
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: SONY MAX 2
+#EXTINF:-1,IN UK: SONY MAX 2
 http://sansat.net:25461/02024773939334/02024773939334/100810
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: COLORS
+#EXTINF:-1,IN UK: COLORS
 http://sansat.net:25461/02024773939334/02024773939334/100811
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: COLORS HD
+#EXTINF:-1,IN UK: COLORS HD
 http://sansat.net:25461/02024773939334/02024773939334/100812
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: SONY SAB
+#EXTINF:-1,IN UK: SONY SAB
 http://sansat.net:25461/02024773939334/02024773939334/100813
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: COLORS RISHTEY TV
+#EXTINF:-1,IN UK: COLORS RISHTEY TV
 http://sansat.net:25461/02024773939334/02024773939334/100814
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: COLORS CINEPLEX
+#EXTINF:-1,IN UK: COLORS CINEPLEX
 http://sansat.net:25461/02024773939334/02024773939334/100815
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: B4U MOVIES
+#EXTINF:-1,IN UK: B4U MOVIES
 http://sansat.net:25461/02024773939334/02024773939334/100816
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: B4U MUSIC
+#EXTINF:-1,IN UK: B4U MUSIC
 http://sansat.net:25461/02024773939334/02024773939334/100817
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: B4U PLUS
+#EXTINF:-1,IN UK: B4U PLUS
 http://sansat.net:25461/02024773939334/02024773939334/100818
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: ZING
+#EXTINF:-1,IN UK: ZING
 http://sansat.net:25461/02024773939334/02024773939334/100819
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: BRIT ASIA TV
+#EXTINF:-1,IN UK: BRIT ASIA TV
 http://sansat.net:25461/02024773939334/02024773939334/100820
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: VENUS
+#EXTINF:-1,IN UK: VENUS
 http://sansat.net:25461/02024773939334/02024773939334/100821
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: ABP NEWS
+#EXTINF:-1,IN UK: ABP NEWS
 http://sansat.net:25461/02024773939334/02024773939334/100822
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: AAJ TAK
+#EXTINF:-1,IN UK: AAJ TAK
 http://sansat.net:25461/02024773939334/02024773939334/100823
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: NDTV
+#EXTINF:-1,IN UK: NDTV
 http://sansat.net:25461/02024773939334/02024773939334/100824
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: AASTHA
+#EXTINF:-1,IN UK: AASTHA
 http://sansat.net:25461/02024773939334/02024773939334/100825
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: PTC PUNJABI
+#EXTINF:-1,IN UK: PTC PUNJABI
 http://sansat.net:25461/02024773939334/02024773939334/100826
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: SIKH CHANNEL
+#EXTINF:-1,IN UK: SIKH CHANNEL
 http://sansat.net:25461/02024773939334/02024773939334/100827
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: AKAAL CHANNEL
+#EXTINF:-1,IN UK: AKAAL CHANNEL
 http://sansat.net:25461/02024773939334/02024773939334/100828
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: SANGAT
+#EXTINF:-1,IN UK: SANGAT
 http://sansat.net:25461/02024773939334/02024773939334/100829
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: MATV NATIONAL
+#EXTINF:-1,IN UK: MATV NATIONAL
 http://sansat.net:25461/02024773939334/02024773939334/100830
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: REPUBLIC TV
+#EXTINF:-1,IN UK: REPUBLIC TV
 http://sansat.net:25461/02024773939334/02024773939334/100831
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA UK: KTV
+#EXTINF:-1,IN UK: KTV
 http://sansat.net:25461/02024773939334/02024773939334/100832
 #EXTINF:-1,===== GENERAL INDIA HINDI =====
 http://sansat.net:25461/02024773939334/02024773939334/96166
