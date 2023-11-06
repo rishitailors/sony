@@ -649,48 +649,57 @@ https://d336l5u76wvq7j.cloudfront.net/out/v1/5990b42d2b7b40bc8e581e90afe6ef94/in
 #EXTINF:-1 tvg-id="ZeeTeluguNews.in" tvg-logo="https://i.ibb.co/r7VrjKV/Zee-Telugu-News-2022-1.png" group-title="Undefined",Zee Telugu News 
 https://ythls.onrender.com/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg.m3u8
 
-#EXTINF:-1 tvg-id="VanithaTV.in" tvg-logo="https://i.imgur.com/KuLZt2a.png" group-title="TE",Vanitha TV 
+#EXTINF:-1 tvg-id="BhakthiTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg" group-title="TE",TeluguL: Bhakthi TV 
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=m3u8&stream=155854
+#EXTINF:-1 tvg-id="VanithaTV.in" tvg-logo="https://i.imgur.com/KuLZt2a.png" group-title="TE",Telugu: Vanitha TV 
 http://es4u.live:25461/02027671448453/02027671448453/95880
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="Telugu: Etv HD" tvg-logo="" group-title="TE",Telugu: ETV HD
-http://es4u.live:25461/02027671448453/02027671448453/95857
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=m3u8&stream=155852
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: ETV Cinema" tvg-logo="" group-title="TE",Telugu: ETV Cinema
-http://es4u.live:25461/02027671448453/02027671448453/95856
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=m3u8&stream=155853
 #EXTINF:-1 tvg-id="etvplus.in" tvg-name="Telugu: ETV Plus" tvg-logo="" group-title="TE",Telugu: ETV Plus
-http://es4u.live:25461/02027671448453/02027671448453/95859
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=m3u8&stream=155855
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: ETV Life" tvg-logo="" group-title="TE",Telugu: ETV Life
 http://es4u.live:25461/02027671448453/02027671448453/95858
+#EXTINF:-1 tvg-ID="" tvg-name="TELEGU: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="",TELEGU: NATIONAL GEOGRAPHIC HD
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=m3u8&stream=155847
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="Telugu: ETV Abhiruchi" tvg-logo="" group-title="TE",Telugu: ETV Abhiruchi
 
 #EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="Telugu: Gemini_TV_HD" tvg-logo="" group-title="TE",Telugu: GEMINI HD
 http://es4u.live:25461/02027671448453/02027671448453/95861
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: Gemini_Movies_HD" tvg-logo="" group-title="TE",Telugu: GEMINI MOVIES HD
-http://es4u.live:25461/02027671448453/02027671448453/95863
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=m3u8&stream=155851
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: GEMINI LIFE HD" tvg-logo="" group-title="TE",Telugu: GEMINI LIFE HD
-http://es4u.live:25461/02027671448453/02027671448453/95862
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=m3u8&stream=155858
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: GEMINI COMEDY HD" tvg-logo="" group-title="TE",Telugu: GEMINI COMEDY HD
-http://es4u.live:25461/02027671448453/02027671448453/95860
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=m3u8&stream=155844
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: Gemini_Music_HD" tvg-logo="" group-title="TE",Telugu: GEMINI MUSIC
-http://es4u.live:25461/02027671448453/02027671448453/95864
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=m3u8&stream=155857
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: KUSHI TV" tvg-logo="" group-title="TE",Telugu: KUSHI TV
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=m3u8&stream=155868
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Telugu: STAR MAA TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star--in.png" group-title="TE",Telugu: STAR MAA TV HD
 http://es4u.live:25461/02027671448453/02027671448453/95874
 #EXTINF:-1 tvg-id="Telugu: STAR MAA GOLD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="TE", Telugu: STAR MAA GOLD
-http://es4u.live:25461/02027671448453/02027671448453/95875
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=m3u8&stream=155860
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: STAR MAA MOVIES HD" tvg-logo="" group-title="TE",Telugu: STAR MAA MOVIES HD
 http://es4u.live:25461/02027671448453/02027671448453/95875
 #EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Te",Star Maa Music
-
 #EXTINF:-1 tvg-id="zeeteluguhd.in" tvg-name="Telugu: Zee Telugu HD" tvg-logo="" group-title="TE",Telugu: Zee Telugu HD
-http://es4u.live:25461/02027671448453/02027671448453/95883
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=m3u8&stream=155866
 #EXTINF:-1 tvg-id="Telugu: Zee Cinemalu HD" tvg-logo="noimage.png" group-title="TE", Telugu: Zee Cinemalu HD
 http://es4u.live:25461/02027671448453/02027671448453/95882
+#EXTINF:-1 tvg-id="Telugu: Sony_BBC_Earth_HD_Telugu" tvg-logo="noimage.png" group-title="TELUGU", Telugu: Sony_BBC_Earth_HD_Telugu
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=m3u8&stream=155848
 #EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="TE", SONY YAY TELUGU
 http://es4u.live:25461/02027671448453/02027671448453/9587
+#EXTINF:-1 tvg-id="10TV News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/10tv_in.png" group-title="TE",10TV News
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=m3u8&stream=155868
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="TE",TV5 News
-http://es4u.live:25461/02027671448453/02027671448453/95877
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=m3u8&stream=155861
 #EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="TE",TV9 Telugu
-http://es4u.live:25461/02027671448453/02027671448453/95878
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=m3u8&stream=155863
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="TE",V6 News
-http://es4u.live:25461/02027671448453/02027671448453/95879
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=m3u8&stream=155859
 
 #EXTINF:-1 tvg-id="Gatla TV" group-title="Local" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Gatlatv.jpg",Gatla TV
 http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
