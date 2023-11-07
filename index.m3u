@@ -1,4 +1,35 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
+#EXTINF:-1,===== INDIA RAZI =====
+#EXTINF:-1,24/7: Telugu_2022_2021_Collection_vol_1
+http://filex.tv:8080/Razimirza/Mirza123/141988
+#EXTINF:-1,IND-Telugu: ETV Cinema
+http://filex.tv:8080/Razimirza/Mirza123/178248
+#EXTINF:-1,IND-Telugu: Etv HD
+http://filex.tv:8080/Razimirza/Mirza123/178249
+#EXTINF:-1,IND-Telugu: ETV LIFE
+http://filex.tv:8080/Razimirza/Mirza123/178250
+#EXTINF:-1,IND-Telugu: ETV PLUS
+http://filex.tv:8080/Razimirza/Mirza123/178251
+#EXTINF:-1,IND-Telugu: Gemini HD
+http://filex.tv:8080/Razimirza/Mirza123/178252
+#EXTINF:-1,IND-Telugu: Gemini life
+http://filex.tv:8080/Razimirza/Mirza123/178253
+#EXTINF:-1,IND-Telugu: GEMINI movies
+http://filex.tv:8080/Razimirza/Mirza123/178254
+#EXTINF:-1,IND-Telugu: GEMINI_MUSIC
+http://filex.tv:8080/Razimirza/Mirza123/178255
+#EXTINF:-1,IND-Telugu: MAA GOLD
+http://filex.tv:8080/Razimirza/Mirza123/178256
+#EXTINF:-1,IND-Telugu: Maa HD
+http://filex.tv:8080/Razimirza/Mirza123/178257
+#EXTINF:-1,IND-Telugu: MAA MOVIES
+http://filex.tv:8080/Razimirza/Mirza123/178258
+#EXTINF:-1,IND-Telugu: Raj Musix
+http://filex.tv:8080/Razimirza/Mirza123/178259
+#EXTINF:-1,IND-Telugu: Zee Telugu
+http://filex.tv:8080/Razimirza/Mirza123/178260
+#EXTINF:-1,Ind-Telugu: GEMINI comedy
+http://filex.tv:8080/Razimirza/Mirza123/178379
 #EXTINF:-1,===== INDIA UK =====
 #EXTINF:-1,IN UK: STAR PLUS HD
 http://sansat.net:25461/02024773939334/02024773939334/100798
