@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+https://avkb.short.gy/tsepg.xml.gz
 http://epg.streamstv.me/epg/guide-india.xml.gz
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
