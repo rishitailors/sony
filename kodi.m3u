@@ -98,12 +98,6 @@ https://sharsolution.in/hls/s9tv/s9tv.m3u8
 #EXTINF:-1 tvg-id="vinodam" tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/vinodam.jpg" " group-title="Local", Vinodam
 https://sharsolution.in/hls/vinodam/vinodam.m3u8
 
-#EXTM3U
-#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-
-
-x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
-
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a518a7a27df456f0b56b3311efd9bbed:9d072f4af5093732bf553cc47c11ac88
