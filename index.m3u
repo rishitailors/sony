@@ -1,9 +1,11 @@
 #EXTM3U
+#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+#EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 https://avkb.short.gy/tsepg.xml.gz
 http://epg.streamstv.me/epg/guide-india.xml.gz
 
-#EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
+
 
 #EXTINF:-1 tvg-id="10TV.in" tvg-logo="https://i.imgur.com/TauWtuJ.png" group-title="Undefined",10 TV 
 http://es4u.live:25461/02027671448453/02027671448453/95852
@@ -631,7 +633,7 @@ http://watchindia.net:8880/live/varghesekunju62/308678sher/2044.ts
 http://watchindia.net:8880/live/varghesekunju62/308678sher/2185.ts
 
 =================================Tata=================================
-#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/KeyLelo.php?id=842
